@@ -20,33 +20,33 @@
 |10:00-10:30 |_break_ |  |
 |10:30-11:30 |Lecture: [Quality control and normalization](Lectures/Day2_Quality_control_and_normalization.pdf) | Ahmed Mahfouz |
 |11:30-12:30 |_lunch_ |  |
-|12:30-14:00 |Lab: Quality control and normalization | TAs |
+|12:30-14:00 |Lab: [Quality control and normalization](session-qc-normalization/QC_Normalization.md) | TAs |
 |14:00-14:15 |_break_ | |
-|14:15-15:15 |Lecture: Dimensionality reduction | Thomas Höllt |
+|14:15-15:15 |Lecture: [Dimensionality reduction](Lectures/Day2_Dimensionality_reduction.pdf) | Thomas Höllt |
 |15:15-15:30 |_break_ | |
-|15:30-17:00 |Lab: Dimensionality reduction | TAs |
+|15:30-17:00 |Lab: [Dimensionality reduction](session-dimensionalityreduction/Dimensionality_Reduction.md) | TAs |
 
 ### Day 3 (Wednesday 21.10.2020)
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-10:00 |Lecture: Clustering | Marcel Reinders |
+|09:00-10:00 |Lecture: [Clustering](Lectures/Day3_Clustering.pdf) | Marcel Reinders |
 |10:00-10:30 |_break_ |  |
-|10:30-12:00 |Lab: Clustering | TAs |
+|10:30-12:00 |Lab: [Clustering](session-clustering/Clustering.md) | TAs |
 |12:00-13:00 |_lunch_ |  |
-|13:00-14:00 |Lecture: Data integration | Tamim Abdelaal |
+|13:00-14:00 |Lecture: [Data integration](Lectures/Day3_Data_Integration.pdf) | Tamim Abdelaal |
 |14:00-14:30 |_break_ | |
-|14:30-16:30 |Lab: Data integration | TAs |
+|14:30-16:30 |Lab: [Data integration](session-integration/Data_Integration.md) | TAs |
 
 ### Day 4 (Thursday 22.10.2020)
 | When | What | Who |
 | ------------- | ------------- | ------------- |
-|09:00-10:00 |Lecture: Trajectory inference | Mohammed Charrout |
+|09:00-10:00 |Lecture: [Trajectory inference](Lectures/Day4_Trajectory_inference.pdf) | Mohammed Charrout |
 |10:00-10:30 |_break_ |  |
-|10:30-12:00 |Lab: Trajectory inference | TAs |
+|10:30-12:00 |Lab: [Trajectory inference](session-trajectories/session-trajectories.md) | TAs |
 |12:00-13:00 |_lunch_ |  |
 |13:00-14:00 |Lecture: Differential expression analysis | Ahmed Mahfouz |
 |14:00-14:30 |_break_ | |
-|14:30-16:30 |Lab: Differential expression analysis | TAs |
+|14:30-16:30 |Lab: [Differential expression analysis](session-differentialexpression/Differential_Expression.md) | TAs |
 
 ### Day 5 (Friday 23.10.2020) - _Mini-symposium_
 | When | What | Who |
